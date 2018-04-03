@@ -13,8 +13,9 @@
 
 실행법    ->  node start.js [arv]
         -> node ryutakoo.js  (* cate5.txt 파일에 넣고 싶은 단어를 집어넣어 실행하면 순차 실행이 가능) 1개 검색어당 총 80초로 슬립을 걸어놓은 상태
-        
-       
+        
+결과데이터 : 디렉토리 data 에 .txt 파일로 저장됨
+
 사용한 모듈 : [linebyline, request, cheerio, fs]
 
 만든이 :  ryutakoo
